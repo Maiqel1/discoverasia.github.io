@@ -1,0 +1,274 @@
+    *{
+      font-family: 'Montserrat', sans-serif;
+    }
+
+
+    .head{
+      background-image:
+      url(img/subtract.png), url(img/jumb.png);
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 1024px;
+      left: 31px;
+      top: -38px;
+
+    }
+
+      .head h2{
+        color: #FFFFFF;
+        font-weight: bold;
+        margin-top: 120px;
+        font-size: 144px;
+
+      }
+
+    .section0{
+      margin-top: 40px;
+    }
+
+    .lin{
+      margin-left: 200px;
+    }
+
+
+    .lin ul li {
+      margin: 0px 40px 0px 0px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 20px;
+  }
+
+     .lin ul a{
+       color: #FFFFFF;
+     }
+
+     .fin1{
+       color: #EBC154;
+       margin-right: 170px;
+     }
+
+     .fin{
+       color: #EBC154;
+       margin-left: 500px;
+       margin-top: 20px;
+     }
+
+     .fin3{
+       color: #EBC154;
+       margin-right: 350px;
+     }
+
+
+
+
+    .hotel1{
+      background-image: url(img/Hotel1.png);
+      background-repeat: no-repeat;
+    }
+
+    .hotel2{
+      background-image: url(img/Hotel2.png);
+        background-repeat: no-repeat;
+    }
+
+    .hotel3{
+      background-image: url(img/Hotel3.png);
+        background-repeat: no-repeat;
+    }
+
+    .section1{
+      margin-top: 100px;
+    }
+
+    .section2{
+      margin-top: 270px;
+      font-size: 20px;
+      color:white;
+      line-height: 8px;
+    }
+
+    .section3{
+        margin-top: 200px;
+        margin-left: 20px;
+    }
+
+    .section4{
+      margin-top: 50px;
+    }
+
+    .line{
+      border-top: 10px solid #EBC154;
+      width: 100px;
+    }
+
+    .line1{
+      border-top: 10px solid #EBC154;
+      width: 100px;
+      margin-right: 60px;
+    }
+
+    .line3{
+      border-top: 10px solid #EBC154;
+      width: 100px;
+      margin-right: 60px;
+    }
+
+    .testimonial{
+      margin-left: 200px;
+    }
+
+    .testimonial h4{
+      font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+
+    }
+
+
+
+    footer {
+        margin-top: 20px;
+          background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/foot.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        padding: 60px 0 30px;
+    }
+
+    footer input.form-control {
+        border: 1px solid #fff;
+        background-color: rgba(0, 0, 0, 0) !important;
+        color: #fff !important;
+    }
+
+    footer .footer-btn {
+        background-color: #EBC154;
+        color: #fff;
+        width: 100%;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    footer input.form-control:focus {
+        outline: none !important;
+
+    }
+
+    .footer-nav-link {
+        font-size: 16px;
+        color: #fff;
+    }
+
+    footer hr {
+        border: 0.5px solid #fff;
+        margin-top: 0;
+    }
+
+    footer .social-icons div {
+        background-color: #EBC154;
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+    }
+
+    footer .social-links i {
+        color: #fff;
+        font-size: 18px;
+    }
+
+    footer .footer-navigation {
+        padding: 0 40px;
+        margin-top: 92px;
+    }
+
+    @media all and (max-width: 560px){
+
+      .head h2{
+        color: #FFFFFF;
+        font-weight: bold;
+        margin-top: 120px;
+        font-size: 70px;
+      }
+
+      .section3{
+          margin-top: 50px;
+          margin-left: 20px;
+      }
+
+      .fin1{
+        color: #EBC154;
+        margin-right: 230px;
+      }
+
+      .fin{
+        color: #EBC154;
+        margin-left: 150px;
+        margin-top: 20px;
+      }
+
+      .fin3{
+        color: #EBC154;
+        margin-right: 30px;
+      }
+
+      .testimonial{
+        margin-left: 20px;
+      }
+
+    footer .footer-btn {
+        font-size: 14px;
+    }
+
+    footer .form-control-lg {
+        font-size: 14px;
+    }
+
+    footer .footer-navigation {
+        padding: 0 10px;
+    }
+
+    footer ul.footer-navs {
+        padding-inline-start: 0;
+        margin-left: 0 !important;
+    }
+
+    footer .footer-navigation {
+        margin-top: 30px;
+    }
+
+    .footer-nav-link {
+        font-size: 8px;
+    }
+
+    .footer-navigation div {
+        flex-direction: column;
+    }
+
+    footer .social-icons {
+        margin-top: 20px !important;
+    }
+
+    footer .social-icons div {
+        height: 30px;
+        width: 30px;
+    }
+
+    footer .footer-text {
+        width: 100% !important;
+    }
+
+    footer .social-links i {
+        font-size: 14px;
+    }
+
+    .ic h2{
+      color: #FFFFFF;
+      font-weight: bold;
+      margin-top: 120px;
+      font-size: 50px;
+
+    }
+}
